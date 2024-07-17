@@ -1,6 +1,6 @@
 # 100-Pandas-Puzzles
 
-Since pandas is a large library with many different specialist features and functions, these excercises focus mainly on the fundamentals of manipulating data (indexing, grouping, aggregating, cleaning), making use of the core DataFrame and Series objects. Many of the excerises here are straightforward in that the solutions require no more than a few lines of code (in pandas or NumPy - don't go using pure Python!).
+Since pandas is a large library with many different specialist features and functions, these excercises focus mainly on the fundamentals of manipulating data (indexing, grouping, aggregating, cleaning), making use of the core DataFrame and Series objects. Many of the excerises here are straightforward in that the solutions require no more than a few lines of code (in pandas or NumPy - don't go using pure Python!)
 ## Overview of puzzles
 
 | Section Name                  | Description                                                                     | Difficulty        |
